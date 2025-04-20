@@ -18,14 +18,18 @@ This marks the initial setup phase of the **AutoDQ** project — a plug-and-play
 
 ## 🛠️ Project Structure
 
-AutoDQ/ ├── datasets/ # Drop raw input files here ├── configs/ # JSON configs for validation rules (optional) ├── scripts/ # Core Python scripts for validation ├── logs/ # Generated logs for validation results ├── README.md # This file
+AutoDQ/ 
+├── datasets/         # Drop raw input files here 
+├── dockers/          # docker file 
+├── pipeline/         # Core logic scripts (ingestion, validation, alerting)
+├── README.md         # This file
 
 
 ---
 
 ## 🌐 GitHub Repository
 
-> 📌 [GitHub Repo Link](https://github.com/your-username/AutoDQ)
+> 📌 [GitHub Repo Link](https://github.com/mathachew7/AutoDQ)
 
 ---
 
@@ -33,7 +37,7 @@ AutoDQ/ ├── datasets/ # Drop raw input files here ├── configs/ # JSO
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/your-username/AutoDQ.git
+    git clone https://github.com/mathachew7/AutoDQ.git
     cd AutoDQ
     ```
 
@@ -63,7 +67,7 @@ Stay tuned!
 
 ## ✍️ Author
 
-**Your Name**  
+**Subash Yadav**  
 Data Engineer | Automation Enthusiast  
-📫 [your-email@example.com](mailto:your-email@example.com)
+
 
