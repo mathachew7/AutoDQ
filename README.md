@@ -43,8 +43,8 @@ AutoDQ/
 | Phase | Description | Status |
 |-------|-------------|--------|
 | **Phase 1** | File-based ingestion (CSV/XLSX) from `datasets/` folder | ✅ Completed |
-| **Phase 2** | Basic data validation (missing values, duplicates) | 🔜 Upcoming |
-| **Phase 3** | Logging results and issues | 🔜 |
+| **Phase 2** | Basic data validation (missing values, duplicates) | ✅ Completed |
+| **Phase 3** | Logging results and issues | 🔜 Upcoming|
 | **Phase 4** | Alert system via Slack or Email | 🔜 |
 | **Phase 5** | Dockerize entire pipeline with `.env` support | 🔜 |
 | **Phase 6** | Optional scheduling with Airflow or Cron | 🔜 |
