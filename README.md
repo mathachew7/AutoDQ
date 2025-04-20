@@ -17,13 +17,14 @@ This marks the initial setup phase of the **AutoDQ** project — a plug-and-play
 ---
 
 ## 🛠️ Project Structure
-
+```
 AutoDQ/ 
 ├── datasets/         # Drop raw input files here 
 ├── dockers/          # docker file 
 ├── pipeline/         # Core logic scripts (ingestion, validation, alerting)
 ├── README.md         # This file
 
+```
 
 ---
 
